@@ -20,8 +20,8 @@ public static void main(String[] args) throws Exception {
 
 
 
-int width =10;
-int height =10;
+int width =128;
+int height =128;
 int count = 0;
 
 BufferedImage img = new BufferedImage(width,height,BufferedImage.TYPE_INT_ARGB);
